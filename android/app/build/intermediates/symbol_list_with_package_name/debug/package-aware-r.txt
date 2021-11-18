@@ -416,6 +416,8 @@ color alan_button_idle
 color alan_button_listen
 color alan_button_process
 color alan_button_reply
+color androidx_core_ripple_material_light
+color androidx_core_secondary_text_default_material_light
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -734,6 +736,7 @@ drawable ic_code_scanner_auto_focus_off
 drawable ic_code_scanner_auto_focus_on
 drawable ic_code_scanner_flash_off
 drawable ic_code_scanner_flash_on
+drawable ic_launcher
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_switch_camera_white_48dp
